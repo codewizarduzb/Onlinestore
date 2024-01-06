@@ -9,5 +9,4 @@ func main() {
 
 	fmt.Println(add(a, b))
 	fmt.Println(minus(a, b))
-	fmt.Println(multiply(a, b))
 }
