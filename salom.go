@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func salom_ber() {
-	fmt.Println("Salom berdik")
+	fmt.Println("Salom berdik o'g'ayni")
 }

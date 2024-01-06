@@ -8,5 +8,5 @@ func main() {
 	var a, b int = 2, 3
 
 	fmt.Println(add(a, b))
-	fmt.Println(minus(a, b))
+	fmt.Println(1 + minus(a, b))
 }
